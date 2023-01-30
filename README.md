@@ -7,7 +7,7 @@
 - 
 - 💞️ I’m looking to collaborate on ...
 
-<img>https://www.codewars.com/users/K0sh1R1zumu/badges/large</img>
+
 
 
 
