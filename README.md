@@ -13,7 +13,7 @@
  
  ![ Main language used ](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sh1R1zumu&hide_title=false&hide_border=true&layout=compact&theme=dracula)
  
- https://www.codewars.com/users/K0sh1R1zumu/badges/large
+<img src="https://www.codewars.com/users/K0sh1R1zumu/badges/large" alt="codewarsrank" /> 
 
 <!---
 K0sh1R1zumu/K0sh1R1zumu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
