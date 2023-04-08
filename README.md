@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World!<img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif" width=20></h1>
+<h1 align="center"> Hello World!<img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif" width=35></h1>
 <h4 align="center"> 私の名前は。。。こしです！</h4>
 
 - 👀 I’m interested in Creating my very own AI anime waifu similar to neuro-sama.
