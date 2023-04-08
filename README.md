@@ -11,10 +11,9 @@
  
 - My CodeWars Rank:
  <img src="https://www.codewars.com/users/K0sh1R1zumu/badges/large" alt="codewarsrank" /> 
-
- ![K0sh1R1zumu's github stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula)
  
 ![K0sh1R1zumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sh1R1zumu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
