@@ -14,7 +14,7 @@
 
  ![K0sh1R1zumu's github stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula)
  
- ![ Main language used ](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sh1R1zumu&hide_title=false&hide_border=true&layout=compact&theme=dracula)
+![K0sh1R1zumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&show_icons=true&theme=tokyonight)
  
 
 
