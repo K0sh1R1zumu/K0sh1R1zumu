@@ -8,6 +8,7 @@
 
 - A self-taught Front-end and Back-end developer.
 - Currently learning Web Development, and Machine Learning
+- I was a former Game Developer that mostly managed the Programming, Music and Art.
 - Loves Anime and Japan Culture<img src='https://media.giphy.com/media/MQMO0ckSI4WoIKKHE0/giphy.gif' width=20>
 - I mostly play Arcade Rhythm Games whenever I'm Free
 - Currently working as an I.T Analyst
