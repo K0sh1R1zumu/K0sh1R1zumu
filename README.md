@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif" width=50>Hello World!<img src='https://media.giphy.com/media/4T8xdbHJ9xbVlREPMW/giphy.gif' width=35></h1>
 
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=38DAA7&center=true&width=500&lines=Koshi+Rizumu;%E3%81%93%E3%81%97%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0;Software+Developer;Web+Developer;Database+Manager;I.T+Analyst" alt="Typing SVG" /></a></p>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Origin+Tech+Demo&size=30&duration=3000&pause=700&color=38DAA7&center=true&width=500&lines=Koshi+Rizumu;%E3%81%93%E3%81%97%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0;Software+Developer;Web+Developer;Database+Manager;I.T+Analyst" alt="Typing SVG" /></a></p>
 
 
 ## <img src="https://media.giphy.com/media/VqdTqQtjlNcqVixij1/giphy.gif" width=30> About me
