@@ -25,7 +25,7 @@
 - Tools and Software I use:
 
 	<img src='https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif' width=50><img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' width=50><img src='https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif' width=50><img src='https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif' width=100>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'F1F7265V3');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7265V3)
  
 ![K0sh1R1zumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sh1R1zumu&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
