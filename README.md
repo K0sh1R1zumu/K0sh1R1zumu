@@ -6,12 +6,12 @@
 
 ## <img src="https://media.giphy.com/media/VqdTqQtjlNcqVixij1/giphy.gif" width=30> About me
 
-- A self-taught Front-end and Back-end developer.
+- A self-taught Full-Stack Developer.
 - Currently learning Web Development, and Machine Learning
-- I was a former Game Developer that mostly managed the Programming, Music and Art.
+- A part of a former Game Development Group which I established back in 2020
 - Loves Anime and Japan Culture<img src='https://media.giphy.com/media/MQMO0ckSI4WoIKKHE0/giphy.gif' width=20>
 - I mostly play Arcade Rhythm Games whenever I'm Free
-- Currently working as an I.T Analyst
+- Currently working as an I.T Personnel
 
 # <img src='https://media.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif' width=30> Skills
 - Languages I use:
@@ -27,8 +27,8 @@
 	<img src='https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif' width=50><img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' width=50><img src='https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif' width=50><img src='https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif' width=100><br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7265V3)
  
-<img align="center" alt="Koshi's_Stats" src="https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api?username=K0sh1R1zumu"/>
-<img align="center" alt="Koshi's_top_lang" src="https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api/top-langs/?username=K0sh1R1zumu"/>
+<img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=ja"/>
+<img width=370 align="center" alt="Koshi's_top_lang" src="https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
 
  
 
