@@ -40,4 +40,4 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7265V3)
 <br></br>
 
-<img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-sepia-three-21.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=ja"/> <img width=374 align="center" alt="Koshi's_top_lang" src="https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
+<img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-sepia-three-21.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=ja"/> <img width=314 align="center" alt="Koshi's_top_lang" src="https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
