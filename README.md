@@ -28,6 +28,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7265V3)
  
 <img align="center" alt="Koshi's_Stats" src="https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api?username=K0sh1R1zumu"/>
+[![Top Langs](https://github-readme-stats-git-master-k0sh1r1zumus-projects.vercel.app/api/top-langs/?username=anuraghazra)]
 
  
 
