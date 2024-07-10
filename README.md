@@ -29,5 +29,6 @@
  
 ![K0sh1R1zumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0sh1R1zumu&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sh1R1zumu&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[!Top Langs](https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?usernae=K0sh1R1zumu&show_icons=true&theme=tokyonight)
  
 
