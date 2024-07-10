@@ -26,7 +26,7 @@
 
 - Languages I'm Currently Learning:
 
-	<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDYzbzRiZXN0eWZzNWc2eTZ6dG1nOG5reWo2MzcxZHIxZWx3N2QwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif' width=50> <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width=50> <img src='https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=256' width=50> <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dqeHdkbXpxZzM0Mmd2czIzcm91b3M0YXd5enVyczJtdjYzZGFiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif' width=50> <img src=''>
+	<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDYzbzRiZXN0eWZzNWc2eTZ6dG1nOG5reWo2MzcxZHIxZWx3N2QwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif' width=50> <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width=50> <img src='https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=256' width=50> <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dqeHdkbXpxZzM0Mmd2czIzcm91b3M0YXd5enVyczJtdjYzZGFiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif' width=50>
 
 - Web Development Tools:
 
