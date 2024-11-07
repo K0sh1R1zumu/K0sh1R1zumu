@@ -9,7 +9,7 @@
 - A part of a former Game Development Group which I established back in 2020.
 - Loves Anime and Japan Culture <img src='https://media.giphy.com/media/MQMO0ckSI4WoIKKHE0/giphy.gif' width=20>.
 - I mostly play Arcade Rhythm Games whenever I'm free.
-- Currently working as an System Administrator 
+- Currently working as a System Administrator 
 
 ## <img src='https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiU2tpbGxzIiwiaWF0IjoxNzIwNTk0MTUxfQ.gS98r4hhOTurWpJDlmdsDNczy9NX-B5n77cKg2p41Gk' width=30> Skills
 - Proficient in Hardware analysis and repair:
