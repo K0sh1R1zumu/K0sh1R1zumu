@@ -38,9 +38,9 @@
 
 <br></br>
 <h2>Visitors:</h2>
-<img align='center' src='https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto' alt='koshiVisitorCounter'><br></br>
+<img align=center src='https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto' alt='koshiVisitorCounter'><br></br>
 <h2>Support Me on Kofi!</h2>
-<a align='center' href="https://ko-fi.com/F1F7265V3"><img width=400 src='https://ko-fi.com/img/githubbutton_sm.svg'/>
+<a align=center href="https://ko-fi.com/F1F7265V3"><img width=400 src='https://ko-fi.com/img/githubbutton_sm.svg'/>
 <br></br>
 
 <img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-sepia-three-21.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=ja"/> <img width=314 align="right" alt="Koshi's_top_lang" src="https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
