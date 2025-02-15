@@ -37,8 +37,10 @@
 	<img src='https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif' width=50> <img src='https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' width=50> <img src='https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif' width=50> <img src='https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif' width=100> <br>
 
 <br></br>
-<p align='center' style='display: flex; flex-direction: column;'>
+<p align='center'>
+	<h2>Visitors:</h2>
 	<img src='https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto' alt='koshiVisitorCounter'><br></br>
+  	<h2>Support Me on Kofi!</h2>
 	<a href="https://ko-fi.com/F1F7265V3"><img width=400 src='https://ko-fi.com/img/githubbutton_sm.svg'/>
 <br></br>
 
