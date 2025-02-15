@@ -38,7 +38,7 @@
 
 <br></br>
 <p align='center' style='display: flex; flex-direction: column;'>
-	<img src='https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto' alt='koshiVisitorCounter'>
+	<img src='https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto' alt='koshiVisitorCounter'><br></br>
 	<a href="https://ko-fi.com/F1F7265V3"><img width=400 src='https://ko-fi.com/img/githubbutton_sm.svg'/>
 <br></br>
 
