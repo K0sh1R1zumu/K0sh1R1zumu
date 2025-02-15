@@ -38,6 +38,7 @@
 
 <br></br>
 <p align='center'>
+	![koshi](https://count.getloli.com/@koshi?name=koshi&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 	<a href="https://ko-fi.com/F1F7265V3"><img width=400 src='https://ko-fi.com/img/githubbutton_sm.svg'/>
 <br></br>
 
