@@ -47,4 +47,4 @@
 <br></br>
 
 <h2>My Current Stats</h2>
-<img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-sepia-three-21.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=ja"/> <img width=314 align="right" alt="Koshi's_top_lang" src="https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
+<img width=400 align="center" alt="Koshi's_Stats" src="https://github-readme-stats-sepia-three-21.vercel.app/api?username=K0sh1R1zumu&theme=github_dark&locale=en"/> <img width=314 align="right" alt="Koshi's_top_lang" src="https://github-readme-stats-sepia-three-21.vercel.app/api/top-langs/?username=K0sh1R1zumu&theme=github_dark&layout=compact&locale=ja"/>
